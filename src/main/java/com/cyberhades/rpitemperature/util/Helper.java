@@ -11,7 +11,7 @@ import com.cyberhades.rpitemperature.model.SensorData;
 public class Helper {
 	
 //	private final static String COMMAND = "less /home/tuxotron/data.txt";
-	private final static String COMMAND = "/home/tuxotron/DHT22/dht22 4";
+	private final static String COMMAND = "dht22 4";
 
 	/*
 	 * Returns a SensorData object with the information retrieved 
